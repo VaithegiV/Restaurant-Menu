@@ -205,6 +205,11 @@ border-radius: 20px;
   header{
     top: 20px;
   }
+   header .vaithegi{
+    margin-left: -20px;
+    margin-right: 25px;
+
+  }
   .item:nth-child(5){
     display: none;
   }
